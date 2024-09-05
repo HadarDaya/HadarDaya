@@ -7,7 +7,7 @@ Here's a little bit information about me:
  C | C++ | C# | HTML | PYTHON
 - 🌐 SKILLS:   
   A team player with a strong ability to learn independently. I'm highly motivated, dedicated, organized, and capable of working autonomously. With a deep desire to grow and succeed, I am always eager to take on new challenges and develop my skills further.
-- Let's connect! 📫    
+- 📫 Let's connect!     
  you can reach me on hadar.d.daya@gmail.com
 <!---
 HadarDaya/HadarDaya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
