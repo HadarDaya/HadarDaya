@@ -8,7 +8,7 @@ Here's a little bit information about me:
 - 🌐 SKILLS:   
   A team player with a strong ability to learn independently. I'm highly motivated, dedicated, organized, and capable of working autonomously. With a deep desire to grow and succeed, I am always eager to take on new challenges and develop my skills further.
 - 📫 Let's connect!     
- you can reach me on hadar.d.daya@gmail.com
+ you can reach me on hadar.d.daya@gmail.com  
 www.linkedin.com/in/hadar-daya-183522327
 <!---
 HadarDaya/HadarDaya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
