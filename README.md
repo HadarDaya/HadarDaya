@@ -3,8 +3,11 @@ Hello! 👋  I’m Hadar Daya
 Here's a little bit information about me:
 - 🌱 I’m a passionate 3rd-year Computer Science student at HIT.
 - 🚀 Currently seeking a student position in the software field to both learn and contribute.  
-- 💻 PROGRAMMING LANGUAGES:    
- C | C++ | C# | PYTHON 
+- 💻 Technical Skills:
+   - Backend: Java, C#, Python, C/C++
+   - Frontend: HTML5, CSS, JavaScript, ReactJS, IndexedDB
+   - Mobile Development: REST APIs, Navigation, Material Design, Full-Stack Android Development.
+   - Tools & Frameworks: Android Studio, Jupyter Notebook, WebStorm, Visual Studio, Eclipse.
 - 🌐 SKILLS:   
   A team player with a strong ability to learn independently. I'm highly motivated, dedicated, organized, and capable of working autonomously. With a deep desire to grow and succeed, I am always eager to take on new challenges and develop my skills further.
 - 📫 Let's connect!     
